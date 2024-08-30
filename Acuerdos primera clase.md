@@ -5,10 +5,10 @@
 * Manejo de cualquier microcontrolador o sistema embebido
 ## Evaluación
 |Cortes        |Porcentaje S.|Metodos   |Porcentaje Individual |
-|--------------|-------------|----------|----------------------|
-|Primer corte  | 15%         |Parcial<br>Apuntes| 15%<br> 5%    |
-|Segundo corte | 30%         |Parcial<br>Apuntes<br>Laboratorio |    10%<br>5%<br> 15%     |
-|Tercer corte  | 50%         |Parcial<br>Apuntes<br>Proyecto    | 20%<br>5%<br>25%     |
+|--------------|-----------|----------|----------|
+|Primer corte  | 15%       |Parcial<br>Apuntes  | 15%<br> 5%       |
+|Segundo corte | 30%       |Parcial<br>Apuntes<br>Laboratorio   |    10%<br>5%<br> 15%|
+|Tercer corte  | 50%       |Parcial<br>Apuntes<br>Proyecto    | 20%<br>5%<br>25%     |
 
 
 Apuntes
@@ -24,3 +24,9 @@ a cambios)
   * Redacción (debe ser original)
   * Realizar 2 ejercicios de ejemplo (diferentes a los mostrados en clase) con su
 respectiva solución
+
+|Laboratorios  |Porcentaje |             |
+|--------------|-----------|----------|
+|Practica      | 50%      |Funcionamiento <br> explicacion  | 
+|Informe       | 50%       |Plantilla IEEE <br> Introduccion ( 1 parrafo) <br> Materiales  <br> Metodos <br> Analisis de resultados <br> Concñusiones <br> Referencias |    
+
