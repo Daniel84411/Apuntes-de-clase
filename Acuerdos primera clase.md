@@ -40,5 +40,7 @@ respectiva solución
   * Respuesta en frecuencia
   * Espacios de estado:
     * Retroalimentacion de estados
-    * observadores  
+    * observadores
+## Bibliografia
+* 
 
