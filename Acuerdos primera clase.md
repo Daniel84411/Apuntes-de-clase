@@ -7,7 +7,8 @@
 |Cortes        |Porcentajes|Metodos   |
 |--------------|-----------|----------|
 |Primer corte  | 20%       |Parcial   |
-|Segundo corte | 30%       |Prcial    |   
+                            Apuntes   |
+|Segundo corte | 30%       |Parcial   |   
 |Tercer corte  | 50%       |Parcial   | 
 
 Lboratorios 
