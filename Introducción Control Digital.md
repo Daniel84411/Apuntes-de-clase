@@ -8,7 +8,8 @@
 ### ¿Porque control digital?
 
 * EXACTITUD:<br> 
-  Capacidad del sistema del control para hacer que la salida se ajuste con presicion al valor deseado. <br>
+  Capacidad del sistema del control para hacer que la salida se ajuste con presicion al valor deseado.<br>
+  Con respecto al control analogo la exactitud del control digital es menor.
 * ERRORES DE IMPLEMENTACION : <br>
 * FEXIBILIDAD:<br>
 * VELOCIDAD:<br>
