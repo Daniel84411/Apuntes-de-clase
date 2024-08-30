@@ -6,9 +6,11 @@
 ## Evaluación
 |Cortes        |Porcentajes|Metodos   |
 |--------------|-----------|----------|
-|Primer corte  | 20%       |Parcial   |
-|                         |Apuntes   |
+|Primer corte  | 15%       |Parcial   |
+|              | 5%        |Apuntes   |
 |Segundo corte | 30%       |Parcial   |   
-|Tercer corte  | 50%       |Parcial   | 
+|              | 5%        |Apuntes   |
+|Tercer corte  | 50%       |Parcial   |
+|              | 5%        |Apuntes   |
 
 Lboratorios 
