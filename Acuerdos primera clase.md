@@ -28,5 +28,5 @@ respectiva solución
 |Laboratorios  |Porcentaje |      Contenido       |
 |--------------|-----------|----------|
 |Practica      | 50%      |Funcionamiento <br> Explicacion  | 
-|Informe       | 50%       |Plantilla IEEE <br> Introduccion ( 1 parrafo) <br> Materiales  <br> Metodos <br> Analisis de resultados <br> Concñusiones <br> Referencias |    
+|Informe       | 50%       |Plantilla IEEE <br> Introduccion ( 1 parrafo) <br> Materiales  <br> Metodos <br> Analisis de resultados <br> Conclusiones <br> Referencias |    
 
