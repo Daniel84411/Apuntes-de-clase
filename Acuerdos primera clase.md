@@ -28,5 +28,17 @@ respectiva solución
 |Laboratorios  |Porcentaje |      Contenido       |
 |--------------|-----------|----------|
 |Practica      | 50%      |Funcionamiento <br> Explicacion  | 
-|Informe       | 50%       |Plantilla IEEE <br> Introduccion ( 1 parrafo) <br> Materiales  <br> Metodos <br> Analisis de resultados <br> Conclusiones <br> Referencias |    
+|Informe       | 50%       |Plantilla IEEE <br> Introduccion ( 1 parrafo) <br> Materiales  <br> Metodos <br> Analisis de resultados <br> Conclusiones <br> Referencias |
+## Conntenido del Curso:
+1. Conversion A/D y D/A
+2. Ecuaciones en diferencias
+3. Transformada Z
+4. Funciones de transferencia
+5. Estabilidad (test de Jury)
+6. Driscretizacion controladores:
+  * metodos algebraicos
+  * Respuesta en frecuencia
+  * Espacios de estado:
+    * Retroalimentacion de estados
+    * observadores  
 
