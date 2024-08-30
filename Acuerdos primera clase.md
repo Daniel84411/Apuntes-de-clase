@@ -10,7 +10,9 @@
 |              | 5%        |Apuntes   |
 |Segundo corte | 30%       |Parcial   |   
 |              | 5%        |Apuntes   |
+|              | 5%        |Laboratorio |
 |Tercer corte  | 50%       |Parcial   |
 |              | 5%        |Apuntes   |
+|              | 5%        |Laboratorio |
 
 Lboratorios 
