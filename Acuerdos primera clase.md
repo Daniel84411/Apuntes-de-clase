@@ -4,15 +4,15 @@
 * Fundamentos de Programación
 * Manejo de cualquier microcontrolador o sistema embebido
 ## Evaluación
-|Cortes        |Porcentajes|Metodos   |
-|--------------|-----------|----------|
+|Cortes        |Porcentaje S.|Metodos   |Porcentaje Individual |
+|--------------|-----------|----------|----------|
 |Primer corte  | 15%       |Parcial   |
-|              | 5%        |Apuntes   |
+|              |           |Apuntes   |
 |Segundo corte | 30%       |Parcial   |   
-|              | 5%        |Apuntes   |
-|              | 5%        |Laboratorio |
+|              |           |Apuntes   |
+|              |           |Laboratorio |
 |Tercer corte  | 50%       |Parcial   |
-|              | 5%        |Apuntes   |
-|              | 5%        |Laboratorio |
+|              |           |Apuntes   |
+|              |           |Laboratorio |
 
 Lboratorios 
