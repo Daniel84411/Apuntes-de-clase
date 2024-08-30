@@ -19,8 +19,8 @@ a cambios)
 * Deben utilizar lenguaje para formato de texto Markdown
 * Deben seguir la plantilla dada en https://github.com/jorgecote/DigtalControl
 * En los apuntes se evaluará:
-** Uso de la plantilla
-** Que esté completo el tema tratado en cada clase
-** Redacción (debe ser original)
-** Realizar 2 ejercicios de ejemplo (diferentes a los mostrados en clase) con su
+  * Uso de la plantilla
+  * Que esté completo el tema tratado en cada clase
+  * Redacción (debe ser original)
+  * Realizar 2 ejercicios de ejemplo (diferentes a los mostrados en clase) con su
 respectiva solución
