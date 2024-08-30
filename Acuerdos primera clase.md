@@ -42,5 +42,7 @@ respectiva solución
     * Retroalimentacion de estados
     * observadores
 ## Bibliografia
-* 
+* Sistemas de control digital Autor: Barrero Mendoza, Oscar(digitalia)
+* Digital Control Engineering : Analysis and Design Autor:M. Sami Fadali, Antonio Visioli (EBSCOHost)
+* Control En Tiempo Discreto Autor: Katsuhiko Ogata (archive.org)
 
