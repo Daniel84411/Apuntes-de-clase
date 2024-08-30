@@ -7,5 +7,10 @@
 
 ### ¿Porque control digital?
 
- *EXACTITUD:  Capacidad del sistema del control para hacer que la salida se ajuste con presicion al valor deseado. <br>   *ERRORES DE IMPLEMENTACION : <br> * FEXIBILIDAD: <br> *VELOCIDAD: <br> *COSTOS:
+* EXACTITUD:<br> 
+  Capacidad del sistema del control para hacer que la salida se ajuste con presicion al valor deseado. <br>
+* ERRORES DE IMPLEMENTACION : <br>
+* FEXIBILIDAD:<br>
+* VELOCIDAD:<br>
+* COSTOS:<br> 
  
