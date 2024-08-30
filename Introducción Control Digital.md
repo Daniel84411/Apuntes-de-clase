@@ -16,5 +16,7 @@
 
 * VELOCIDAD : Rapidez con la que se ejecuta para procesar señales y realizar calculos para ajustar la salida en respuestas a las variaciones del sistema. <br>
 
-* COSTOS : Estandarizar los costos en base al sofware.  <br> 
+* COSTOS : Estandarizar los costos en base al sofware.  <br>
+
+  ### Estructura del controlador analogico 
  
