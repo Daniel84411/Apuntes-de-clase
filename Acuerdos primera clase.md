@@ -25,8 +25,8 @@ a cambios)
   * Realizar 2 ejercicios de ejemplo (diferentes a los mostrados en clase) con su
 respectiva solución
 
-|Laboratorios  |Porcentaje |             |
+|Laboratorios  |Porcentaje |      Contenido       |
 |--------------|-----------|----------|
-|Practica      | 50%      |Funcionamiento <br> explicacion  | 
+|Practica      | 50%      |Funcionamiento <br> Explicacion  | 
 |Informe       | 50%       |Plantilla IEEE <br> Introduccion ( 1 parrafo) <br> Materiales  <br> Metodos <br> Analisis de resultados <br> Concñusiones <br> Referencias |    
 
