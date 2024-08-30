@@ -9,3 +9,5 @@
 |Primer corte  | 20%       |          |
 |Segundo corte | 30%       |          |   
 |Tercer corte  | 50%       |          | 
+
+Lboratorios 
