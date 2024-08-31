@@ -54,3 +54,16 @@ $$C\left( z \right)=\frac{z}{z-1}Z\\{ l^{-1}\\{ C\left( s \right) \frac{1}{s} \\
 Esta tiene como base una aproximacion a la funcion discreta de una derivada tomando valores hacia adelante a la cual se le aplica la transformada z y se obtiene una equivalente entre el espacio de laplace y el espacio z
 
 $$\frac{\mathrm{d} }{\mathrm{d} KT}x\left( KT \right)=\frac{x\left( k+1  \right)-x\left( k \right)}{T}$$
+
+$$Z\\{ \frac{x\left( k+1  \right)-x\left( k \right)}{T} \\}=\frac{zX(z)-X(z)}{T}=\frac{z-1}{T}X(z)$$
+
+$$s\approx \frac{z-1}{T} $$
+
+### 4. Metodo Euler atrás
+Un meto similar al anterior pero en este caso en lugar de tomar los adelantos toma los atrasos para hallar la derivada y la equivalencia entre los espacios
+
+$$\frac{\mathrm{d} }{\mathrm{d} KT}x\left( KT \right)=\frac{x\left( k \right)-x\left( k-1  \right)}{T}$$
+
+$$Z\\{ \frac{x\left( k \right)-x\left( k-1  \right)}{T} \\}=\frac{X(z)-z^{-1}X(z)}{T}=\frac{1-z^{-1}}{T}X(z)$$
+
+$$s\approx \frac{1-z^{-1}}{T}=\frac{z-1}{Tz} $$
