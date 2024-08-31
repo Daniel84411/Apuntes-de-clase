@@ -31,8 +31,20 @@ T=0:0.2:9;
 y1= 5*sin(1.04*T);
 stem(T,y1)
 ```
-
-
+# Representación matemática de los sistemas
+## Ecuación en diferencias
+## Características ecuaciones en diferencias
+## Solución de ecuaciones en diferencias
+## Solución por métodos iterativos
+## Transformada Z
+## Relación Z y L
+## Solución de ecuaciones en diferencias por transformada Z
+## Transfomadas Z importantes en control
+## Atrasos
+## Transformada Z de un atraso
+## Adelantos
+## Transformada Z de un adelanto
+# Función de transferencia discreta
 
 
 
