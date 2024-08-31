@@ -4,7 +4,7 @@
 $$𝑦(𝑡)= 5𝑆𝑒𝑛(1.04𝑡)$$<br>
 ![](Imagenes/FuncionSeno.PNG)<br>
 **Figura 1**<br> $$T=0.5 seg$$<br>
-![](Imagenes/FuncionDiscreta.PNG)<br>
+![](Imagenes/FuncionDiscretaSeno.PNG)<br>
 **Figura 2**
 
 ```
