@@ -24,7 +24,7 @@ $$𝑓(𝑡)= 𝑓(𝑘𝑇)$$<br>
 $$𝑦(𝑘𝑇) = 5𝑆𝑒𝑛 1,04𝑘𝑇 ; 𝑇 = 0.5 𝑠𝑒𝑔$$<br>
 ![](Imagenes/FuncionDiscretaSeno.PNG)<br>
 $$𝑦(𝑘𝑇) = 5𝑆𝑒𝑛 1,04𝑘𝑇 ; 𝑇 = 0.2 𝑠𝑒g$$<br>
-![](Imagenes/FuncionDiscretaSeno.PNG)<br>
+![](Imagenes/FuncionDiscreta2.PNG)<br>
 **Figura 3**
 ```
 T=0:0.2:9;
