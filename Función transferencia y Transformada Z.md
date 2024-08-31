@@ -8,5 +8,6 @@ t=0:(pi/100):9;
 y= 5*sin(1.04*t);
 plot(t,y)
 ```
-$$T=0.5 seg$$<br>![](Imagenes/FuncionDiscretaSeno.PNG)
+$$T=0.5 seg$$<br>
+
 
