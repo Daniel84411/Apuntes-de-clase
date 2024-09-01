@@ -32,3 +32,12 @@ $$D\left( z \right)= a_{0}z^{n}+a_{1}z^{n-1}+....+a_{n-1}z+a_{n}$$
 
 Para lo cual antes de pasar a ser evaluada deben cumplirmse primero las sigueintes condiciones, las cuales de no cumplirse el sistema seria inestable:
 
+$a_{0}$ > 0   
+
+$|a_{n}| < a_{0}$
+
+$P(z)|_{z=1} > 0$
+
+$P(z)|_{z=-1}$  En donde debe ser mayor que 0 para n par y menor que 0 para n impar
+
+Luego de verificar si se cumplen todas las condicienes se hace el arreglo como se ve en la figura 2 y para comprobar si es estable el sistema mediante este el primer termino siempre debe ser mayor que el ultimo termino en valor absoluto para cada linea
