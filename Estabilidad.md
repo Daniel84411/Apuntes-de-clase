@@ -41,3 +41,7 @@ $P(z)|_{z=1} > 0$
 $P(z)|_{z=-1}$  En donde debe ser mayor que 0 para n par y menor que 0 para n impar
 
 Luego de verificar si se cumplen todas las condicienes se hace el arreglo como se ve en la figura 2 y para comprobar si es estable el sistema mediante este el primer termino siempre debe ser mayor que el ultimo termino en valor absoluto para cada linea
+
+![Figura](https://github.com/Daniel84411/Apuntes-de-clase/blob/main/Imagenes/arreglo%20de%20Jury.jpg)
+
+Figura 2. Arreglo test de Jury
