@@ -20,4 +20,4 @@
 
   ### Estructura del controlador analogico 
 
-![](Imagenes/FuncionDiscretaSeno.PNG)
+![](Imagenes/Estructura del controlador.jfif) 
