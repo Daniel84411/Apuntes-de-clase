@@ -21,7 +21,7 @@
   ###  Estructura del controlador analogico <br>
 ![](Imagenes/Estructuradelcontrolador.PNG) <br>
 
-##Estructura dell controlador analogico <br>
+## Estructura del controlador analogico <br>
 
 ![](Imagenes/Estructuraanalogica.PNG)
 
