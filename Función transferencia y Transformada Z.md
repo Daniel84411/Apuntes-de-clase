@@ -33,7 +33,15 @@ stem(T,y1)
 ```
 # Representación matemática de los sistemas
 ## Ecuación en diferencias
+$$𝑏_𝑛𝑢(𝑘) + 𝑏_{𝑛-1}𝑢(𝑘−1)+ ⋯ + 𝑏_0𝑢(𝑘−𝑛) = 𝑦(𝑘)+𝑎_{𝑛−1}𝑦(𝑘 − 1)+ ⋯ + 𝑎_0𝑦(𝑘 − 𝑛)$$
+* Donde “u” es la entrada y “y” es la salida
+* La dinámica del sistema se representa a través de una combinación lineal de diferentes muestras de las señales
+* Al igual que con las ecuaciones diferenciales, las ecuaciones en diferencias representan el comportamiento dinámico de un sistema en términos de sus señales de entrada y salida
 ## Características ecuaciones en diferencias
+* Las ecuaciones en diferencias pueden ser homogeneas, lineales, invariantes en el tiempo
+* 
+ * Lineal, invariante en el tiempo, no homogénea
+ *  
 ## Solución de ecuaciones en diferencias
 ## Solución por métodos iterativos
 ## Transformada Z
