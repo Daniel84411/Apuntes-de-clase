@@ -43,5 +43,30 @@
 
    ## Consideraciones practicas
 Los conversores A/D comerciales estan limitados a convertir un rango de voltajes determinados.<br>
-para algunas aplicaciones es necesario tener en cuenta los tiempos de retraso entre el muestreo y la cuanatizacion del valor. 
+para algunas aplicaciones es necesario tener en cuenta los tiempos de retraso entre el muestreo y la cuanatizacion del valor.
+
+![](Imagenes/consideraciones.PNG) <br>
+
+## Tiempos de muestreador <br>
+### TA (Tiempo de adquisicion): 
+Tiempo que trascurre desde que se da la orden de muestreo hasta que se retire dentro de cierto margen de tolerancia. <br>
+
+## TP (Tiempo de apertura):
+Tiempo que trascurre desde que se inicia la retencion hasta que abre el muestrador.
+
+## TS (Tiempo de estalecimeinto):
+Movimiento del interruptor puede crear una capacitancia, la cual a su vez puede producir un transitorio.
+
+
+### Conversor Digital / Analogico 
+* Es un dispositivo que genera una correspondencia uno a uno entre valores digitales y valores analogicos.
+* Para el rango complet de la entrada digotal, existen 2 valores analogicos correspondientes diferentes, incluyendo el 0.
+
+  
+
+
+
+
+
+
 
