@@ -20,4 +20,4 @@
 
   ### Estructura del controlador analogico 
 
-![](Imagenes/Estructura del controlador.jfif) 
+![IMAGEN](Imagenes/Estructura del controlador.PNG) 
