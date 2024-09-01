@@ -67,3 +67,13 @@ $$\frac{\mathrm{d} }{\mathrm{d} KT}x\left( KT \right)=\frac{x\left( k \right)-x\
 $$Z\\{ \frac{x\left( k \right)-x\left( k-1  \right)}{T} \\}=\frac{X(z)-z^{-1}X(z)}{T}=\frac{1-z^{-1}}{T}X(z)$$
 
 $$s\approx \frac{1-z^{-1}}{T}=\frac{z-1}{Tz} $$
+
+### 5. Metodo trapezoidal de "Tustin"
+Tomando en cuenta los datos que se presentan en la figura 1 se obtiene la equivalencia para este tipo de metodo
+
+![Metodo trapezoide](https://ghsalazar.github.io/assets/images/tustin-1.svg)
+
+Figura 1. Grafica metodo trapezoide
+
+Respecto a lo anterior se obtienen las siguientes formulas:
+
