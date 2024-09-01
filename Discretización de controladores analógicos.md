@@ -1,5 +1,5 @@
 # Discretización de controladores Analógicos
-El objetivo con esto es buscar una equivalencia entre los espacios de laplace y z,para lo cual existen diferentes metodos parab poder hallar esta relacion o equivalencia.
+El objetivo con esto es buscar una equivalencia entre los espacios de laplace y z,para lo cual existen diferentes metodos que permiten poder hallar esta relacion o equivalencia.
 ## Metodo de invarianza al impulso
 ### 1. Invarianza al impulso
 Haciendo uso de la respuesta al impulso en el espacio de laplace para hallar su equivalente en z, en donde se debe asumir un tiempo de muestreo T con lo cual se obtienela siguiente ecuacion:
