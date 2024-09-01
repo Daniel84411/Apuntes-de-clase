@@ -23,6 +23,25 @@
 
 ## Estructura del controlador analogico <br>
 
-![](Imagenes/Estructuraanalogica.PNG)
+![](Imagenes/Estructuraanalogica.PNG) <br>
 
+## MUESTREO <br>
+* Entre mas alta sea la tasa de muestre mass informacion se esta procesando
+* Si la tasa es muy baja se pierde mucha informacion y no se puede recostruir fielmente la señal.
+* El muestreo puede ser periodico (unico), de tasa multiple o aleatorio.
+
+  ## Procedimiento de conversion
+
+  ### Cuantizacion: <br>
+  La señal analoga se convierte en una serie  de valores que corresponden a cada una de las medidas tomadas en el muestreo.
+  ### Codificacion: <br>
+ * Se asignan valores de tipo binario a cada uno de los valores de la cuantizacion.
+ * Los valores los define el diseñador de acuerdo con el tipo de informacion en la actualizacion.
+ * Lo mas usual es que se utiliuce codfo binario para representar cada valor de voltaje.
+ * En la codificacion es importante definir el numero de bits que utilizara el codigo ya que al usar demasiados bits se desperdicia memoria y procesamiento en el 
+   dispositivo que esta procesand.
+
+   ## Consideraciones practicas
+Los conversores A/D comerciales estan limitados a convertir un rango de voltajes determinados.<br>
+para algunas aplicaciones es necesario tener en cuenta los tiempos de retraso entre el muestreo y la cuanatizacion del valor. 
 
