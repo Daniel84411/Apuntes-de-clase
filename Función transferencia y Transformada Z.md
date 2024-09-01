@@ -63,7 +63,9 @@ $$𝑦(𝑘)=\frac{1}{4}(−3y(k−2)+y(k−3)+4u(k−5)−6u(k−8))$$
 $$𝑦(𝑘)=\frac{1}{4}(−3y(−2)+y(−3)+4u(−5)−6u(−8))= - \frac{5}{4}$$
 # Transformada Z
 Es la contraparte discreta de la transformada de LaPlace
-* El espacio z tiene características diferentes al espacio de LaPlace
+* El espacio z tiene características diferentes al espacio de LaPlace<br>
+
+
 
 ## 1. Relación Z y L
 ## 2. Solución de ecuaciones en diferencias por transformada Z
