@@ -19,4 +19,6 @@
 * COSTOS : Estandarizar los costos en base al sofware.  <br>
 
   ### Estructura del controlador analogico 
- 
+
+ Entrada analogica ---> <br>
+             R
