@@ -77,3 +77,6 @@ Figura 1. Grafica metodo trapezoide
 
 Respecto a lo anterior se obtienen las siguientes formulas:
 
+$$s=\frac{\frac{2}{T}\left( z-1 \right)}{z+1}$$
+
+$$z=\frac{1+\frac{Ts}{2}}{1-\frac{Ts}{2}}$$
