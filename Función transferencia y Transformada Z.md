@@ -64,20 +64,31 @@ $$𝑦(𝑘)=\frac{1}{4}(−3y(−2)+y(−3)+4u(−5)−6u(−8))= - \frac{5}{4}
 # Transformada Z
 Es la contraparte discreta de la transformada de LaPlace
 * El espacio z tiene características diferentes al espacio de LaPlace<br>
-
-
-
-## 1. Relación Z y L
-## 2. Solución de ecuaciones en diferencias por transformada Z
-## 3. Transfomadas Z importantes en control
-## 4. Atrasos
-## 5. Transformada Z de un atraso
-## 6. Adelantos
-## 7. Transformada Z de un adelanto
+![](Imagenes/TransformadadeLaplaceyTransformadaZ.PNG)
+## 1. Solución de ecuaciones en diferencias por transformada Z
+* Es un procedimiento similar a la solución de ecuaciones diferenciales
+ * Aplicar transformada Z a la ecuación
+ *  Despejar la variable desconocida o salida del Sistema
+ *  Aplicar transformada Z inversa $$𝑍^{−1}$$
+## 2. Transfomadas Z importantes en control
+* En las ecuaciones en diferencias tenemos términos del tipo:
+* Donde n es el número de muestra que se desplaza la función <br>
+$$𝑓(𝑘+𝑛) \text{ o } 𝑓(𝑘−n)$$<br>
+* Entonces la transformada Z de este tipo de términos son muy importantes en el área de control
+## 3. Atrasos
+## 4. Transformada Z de un atraso
+## 5. Adelantos
+## 6. Transformada Z de un adelanto
 # Función de transferencia discreta
-## Funciones de transferencia en el dominio Z
-## Función de transferencia pulso
-
+## 1. Funciones de transferencia en el dominio Z
+## 2. Función de transferencia pulso
+## 3. Para dos sistemas en cascada
+## 4. Lazo cerrado
+## 5. Función de transferencia resultante
+## 5. Pasar de una función de transferencia en atraso a adelanto
+## 6. Sistemas no causales
+## 7. Sistemas causales
+## 8. Tiempo muerto en sistemas discretos
 
 
 
