@@ -62,7 +62,7 @@ Movimiento del interruptor puede crear una capacitancia, la cual a su vez puede 
 * Es un dispositivo que genera una correspondencia uno a uno entre valores digitales y valores analogicos.
 * Para el rango complet de la entrada digotal, existen 2 valores analogicos correspondientes diferentes, incluyendo el 0.
 
-![](Imagenes/conversores.PNG)
+![](Imagenes/conversor.PNG)
   
 
 
