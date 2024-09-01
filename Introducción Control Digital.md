@@ -20,5 +20,4 @@
 
   ### Estructura del controlador analogico 
 
- Entrada analogica ---> <br>
-             R
+![](Imagenes/FuncionDiscretaSeno.PNG)
