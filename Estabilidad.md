@@ -23,3 +23,12 @@ $$Z=0.8$$
 $$Z=0.5$$
 
 El sistema es estable debido a que todos sus polos son menores que 1
+
+## Estabilidad BIBO
+### Teste de Jury
+Este test es utilizado para poder determinar si un sistema en el espacio z es estable o no para funciones que tienen la siguiente forma:
+
+$$D\left( z \right)= a_{0}z^{n}+a_{1}z^{n-1}+....+a_{n-1}z+a_{n}$$
+
+Para lo cual antes de pasar a ser evaluada deben cumplirmse primero las sigueintes condiciones, las cuales de no cumplirse el sistema seria inestable:
+
