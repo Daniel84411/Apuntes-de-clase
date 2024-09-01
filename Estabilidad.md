@@ -46,4 +46,13 @@ Luego de verificar si se cumplen todas las condicienes se hace el arreglo como s
 
 Figura 2. Arreglo test de Jury
 
-💡**Ejemplo 1:**
+💡**Ejemplo 1:** Para la siguiente funcion verificar su estabilidad
+
+$$D\left( z \right)= 2z^{5}+3.6z^{4}-z^{3}-8z^{3}+z^{2}-0.32z-9.5$$
+
+$a_{0}$ > 0  para este sistema 2 > 0
+
+$|a_{n}| < a_{0}$ para este sistema no se cumple esta condicion debido a que |-9.5| > 2 por lo cual aqui ya se determina que el sistema es inestable 
+
+
+
