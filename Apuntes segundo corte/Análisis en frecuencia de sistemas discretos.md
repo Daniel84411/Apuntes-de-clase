@@ -16,5 +16,5 @@ Salida sinusoidal con amplitud proporcional
 * Armónicos igual frecuencia que a la entrada
 * Variaciones en amplitud y frecuencia<br>
 Nota:suponiendo claro que el sistema sea lineal.<br>
-![](Imagenes/P-s.PNG)
+![](Imagenes/Ps.PNG)
 
