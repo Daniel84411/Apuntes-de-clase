@@ -14,5 +14,7 @@ salida
 ### que cambios se obtienen?
 Salida sinusoidal con amplitud proporcional
 * Armónicos igual frecuencia que a la entrada
-* Variaciones en amplitud y frecuencia
-Nota:suponiendo claro que el sistema sea lineal.
+* Variaciones en amplitud y frecuencia<br>
+Nota:suponiendo claro que el sistema sea lineal.<br>
+![](Imagenes/P_s.PNG)
+
