@@ -27,7 +27,7 @@ sistema también es posible representarlo así.<br>
 $$𝑅(𝑡) = 𝐴𝑆𝑒𝑛(𝜔𝑘𝑇 + 𝜑)$$<br>
 $$R=𝐴∠𝜑$$
 ## Sistema en fasores
-
+![]()
 $𝐺(𝑠)=\frac{𝐴_2∠𝜑_2}{𝐴_1∠𝜑_1}=M∠𝜑$<br>
 Entonces M y 𝜑 son:<br>
 $M=\frac{A_2}{A_1}$ y $𝜑=𝜑_2-𝜑_1$
