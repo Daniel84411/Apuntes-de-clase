@@ -15,6 +15,7 @@ salida
 * Salida sinusoidal con amplitud proporcional
 * Armónicos igual frecuencia que a la entrada
 * Variaciones en amplitud y frecuencia
+
 ## Representación matemática
 Las señales sinusoidales son convenientes porque se
 pueden representar en forma de fasores
