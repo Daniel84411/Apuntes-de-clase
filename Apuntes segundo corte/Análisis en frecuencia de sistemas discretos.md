@@ -15,7 +15,8 @@ salida
 * Salida sinusoidal con amplitud proporcional
 * Armónicos igual frecuencia que a la entrada
 * Variaciones en amplitud y frecuencia
-![](https://github.com/Daniel84411/Apuntes-de-clase/blob/ceddff9e8dbb3a461c9d3395e02a5bd64f4e3574/Imagenes/Planta.PNG)
+![](https://github.com/Daniel84411/Apuntes-de-clase/blob/ceddff9e8dbb3a461c9d3395e02a5bd64f4e3574/Imagenes/Planta.PNG)<br>
+Figura 1: sistema.
 ## Representación matemática
 Las señales sinusoidales son convenientes porque se
 pueden representar en forma de fasores
@@ -27,7 +28,8 @@ sistema también es posible representarlo así.<br>
 $$𝑅(𝑡) = 𝐴𝑆𝑒𝑛(𝜔𝑘𝑇 + 𝜑)$$<br>
 $$R=𝐴∠𝜑$$
 ## Sistema en fasores
-![]()
+![](https://github.com/Daniel84411/Apuntes-de-clase/blob/eec28926a4d8ff87707c6310e097caf37f8daf97/Imagenes/Planta2.PNG)<br>
+Figura 2: fasores del sistema<br>
 $𝐺(𝑠)=\frac{𝐴_2∠𝜑_2}{𝐴_1∠𝜑_1}=M∠𝜑$<br>
 Entonces M y 𝜑 son:<br>
 $M=\frac{A_2}{A_1}$ y $𝜑=𝜑_2-𝜑_1$
