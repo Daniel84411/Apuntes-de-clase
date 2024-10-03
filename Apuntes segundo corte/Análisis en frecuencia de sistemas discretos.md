@@ -11,9 +11,22 @@ lineal
 * Al realizar variaciones en la frecuencia de entrada se
 producen variaciones en amplitud y fase en la señal de
 salida
-### que cambios se obtienen?
-Salida sinusoidal con amplitud proporcional
+### Que cambia?
+* Salida sinusoidal con amplitud proporcional
 * Armónicos igual frecuencia que a la entrada
-* Variaciones en amplitud y frecuencia<br>
-suponiendo claro que el sistema sea lineal.
-![](Imagenes/Planta.png)
+* Variaciones en amplitud y frecuencia
+## Representación matemática
+Las señales sinusoidales son convenientes porque se
+pueden representar en forma de fasores
+* Los fasores asumen una frecuencia constante y
+solamente representa la señal en términos de amplitud y
+fase
+* Si la entrada y salida se representan como fasores, el
+sistema también es posible representarlo así.<br>
+$$𝑅(𝑡) = 𝐴𝑆𝑒𝑛(𝜔𝑘𝑇 + 𝜑)$$
+$$R=𝐴∠𝜑$$
+## Sistema en fasores
+$𝐺(𝑠)=\frac{𝐴_2∠𝜑_2}{𝐴_1∠𝜑_1}=M∠𝜑$<br>
+Entonces M y 𝜑 son:<br>
+$M=\frac{A_2}{A_1}$ y $𝜑=𝜑_2-𝜑_1$
+
