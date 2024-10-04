@@ -30,7 +30,5 @@ $$C\left( Z \right)=\frac{0,21Z+2}{\frac{0,58(Z^{2}-33,01Z+5)}{Z^{2}-12,4Z+0,25}
 
 $$C\left( Z \right)=\frac{0,21Z^{3}-0,604Z^{2}-24,74Z+0,5}{0,58Z^{2}-19,15Z+2,9}$$
 
-En este caso se produce un controlador no realizable debido a que la funcion no es estrictamente proia
-
 💡**Ejemplo 2:**
 
