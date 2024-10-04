@@ -75,12 +75,19 @@ Figura 4:Análisis frecuencial en tiempo discreto<br>
 💡**Ejemplo 3:**<br>
 * Si se tiene un sistema en tiempo continuo:<br>
 $$G(s)=\frac{2}{s+11}$$
-Se puede obtener la aproximación discreta (zoh)<br>
+* Se puede obtener la aproximación discreta (zoh)<br>
 con $$T=0.3$$ seg:<br>
-$$G(z)=\frac{2(1-e^{-11(0.3)})}{z-e^{-11(0.3)}}=\frac{1.9662}{z-0.03288}$$<br>
+$$G(z)=\frac{2(1-e^{-11(0.3)})}{z-e^{-11(0.3)}}=\frac{1.9262}{z-0.03688}$$<br>
 * Al aplicar la transformada w se obtiene:<br>
-$$G(w)=\frac{1.9662}{(\frac{1+\frac{0.3w}{2}}{1-\frac{0.3w}{2}})-0.03288}$$<br>
-$$G(w)=\frac{1.9662}{\frac{0.96712+0.15w(1+0.03288)}{1-0.15w}}$$<br><br>
-$$G(w)=\frac{1.9662(1-0.15w)}{0.96712+0.15w(1+0.03288)}$$<br><br>
-$$G(w)=\frac{1.9662(1-0.15w)}{0.96712+0.154932w}$$<br><br>
-$$G(w)=\frac{12.688(−0.15w+1)}{w+6.243}$$
+$$G(w)=\frac{1.9262}{(\frac{1+\frac{0.3w}{2}}{1-\frac{0.3w}{2}})-0.03688}$$<br>
+$$G(w)=\frac{1.9262}{\frac{0.96312+0.15w(1+0.03688)}{1-0.15w}}$$<br><br>
+$$G(w)=\frac{1.9262(1-0.15w)}{0.96312+0.15w(1+0.03688)}$$<br><br>
+$$G(w)=\frac{1.9262(1-0.15w)}{0.96312+0.155532w}$$<br><br>
+$$G(w)=\frac{12.38(−0.15w+1)}{w+6.19}$$
+## Análisis en frecuencia
+![](https://github.com/Daniel84411/Apuntes-de-clase/blob/b4dccb2db5a1ac2d41af216f0ca1ac03305d3279/Imagenes/Diagrama%20de%20bode%200%2C3.PNG)<br>
+Figura 5: Diagrama con T=0,3<br>
+![](https://github.com/Daniel84411/Apuntes-de-clase/blob/ba9e72f0bba083e4c13f758eaef93b10fca5359b/Imagenes/Diagrama%20de%20bode%200%2C03.PNG)<br>
+Figura 6:Diagrama con T=0,03<br>
+![](https://github.com/Daniel84411/Apuntes-de-clase/blob/217e1619c47d102f224e3507eebdb76a136fdaa4/Imagenes/Diagrama%20de%20bode%200%2C003.PNG)<br>
+Figura 7:Diagrama con T=0,003<br>
