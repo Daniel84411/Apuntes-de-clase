@@ -14,4 +14,13 @@ $$C\left( Z \right)=\frac{Go\left( Z \right)}{G\left( Z \right) -Go\left( Z \rig
 
 ## Ejemplos 
 
-💡**Ejemplo 1:**
+💡**Ejemplo 1:**  Diseñar un controlador que tiene las siguientes funciones para G(Z) y Go(Z)
+
+$$G\left( Z \right)=\frac{0,58}{Z^{2}-12,4Z+0,25} $$ 
+
+$$Go\left( Z \right)=\frac{0,21Z+2}{Z^{2}-32,8Z+3,2}$$
+
+Remplazamoss C(Z) haciendo uso del metodo expliado anteriormente para obtener el controlador
+
+$$C\left( Z \right)=\frac{\frac{0,21Z+2}{Z^{2}-32,8Z+3,2}}{\frac{0,58}{Z^{2}-12,4Z+0,25}(1 - \frac{0,21Z+2}{Z^{2}-32,8Z+3,2})}$$
+
