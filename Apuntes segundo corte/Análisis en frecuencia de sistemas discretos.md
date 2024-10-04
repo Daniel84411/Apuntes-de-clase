@@ -72,11 +72,15 @@ $$𝑤 =j\frac{2}{𝑇}tan(\frac{𝜔𝑇}{2})$$<br>
 $$v=\frac{2}{𝑇}tan(\frac{𝜔𝑇}{2})$$<br>
 ![](https://github.com/Daniel84411/Apuntes-de-clase/blob/10aa59277d383b7f086d4662242a2a0b89622c38/Imagenes/An%C3%A1lisis%20frecuencial%20en%20tiempo%20discreto.PNG)<br>
 Figura 4:Análisis frecuencial en tiempo discreto<br>
-
-
-
-
-
-  
-
-
+💡**Ejemplo 3:**<br>
+* Si se tiene un sistema en tiempo continuo:<br>
+$$G(s)=\frac{2}{s+11}$$
+Se puede obtener la aproximación discreta (zoh)<br>
+con $$T=0.3$$ seg:<br>
+$$G(z)=\frac{2(1-e^{-11(0.3)})}{z-e^{-11(0.3)}}=\frac{1.9662}{z-0.03288}$$<br>
+* Al aplicar la transformada w se obtiene:<br>
+$$G(w)=\frac{1.9662}{(\frac{1+\frac{0.3w}{2}}{1-\frac{0.3w}{2}})-0.03288}$$<br>
+$$G(w)=\frac{1.9662}{\frac{0.96712+0.15w(1+0.03288)}{1-0.15w}}$$<br><br>
+$$G(w)=\frac{1.9662(1-0.15w)}{0.96712+0.15w(1+0.03288)}$$<br><br>
+$$G(w)=\frac{1.9662(1-0.15w)}{0.96712+0.154932w}$$<br><br>
+$$G(w)=\frac{12.688(−0.15w+1)}{w+6.243}$$
