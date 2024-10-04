@@ -24,3 +24,9 @@ Remplazamoss C(Z) haciendo uso del metodo expliado anteriormente para obtener el
 
 $$C\left( Z \right)=\frac{\frac{0,21Z+2}{Z^{2}-32,8Z+3,2}}{\frac{0,58}{Z^{2}-12,4Z+0,25}(1 - \frac{0,21Z+2}{Z^{2}-32,8Z+3,2})}$$
 
+$$C\left( Z \right)=\frac{\frac{0,21Z+2}{Z^{2}-32,8Z+3,2}}{\frac{0,58}{Z^{2}-12,4Z+0,25}*\frac{Z^{2}-32,8Z+3,2-0,21Z+2}{Z^{2}-32,8Z+3,2}}$$
+
+$$C\left( Z \right)=\frac{0,21Z+2}{\frac{0,58(Z^{2}-33,01Z+5)}{Z^{2}-12,4Z+0,25}}$$
+
+$$C\left( Z \right)=\frac{0,21Z^{3}-0,604Z^{2}-24,74Z+0,5}{0,58Z^{2}-19,15Z+2,9}$$
+
