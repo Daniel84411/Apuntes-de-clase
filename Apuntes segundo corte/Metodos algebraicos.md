@@ -30,5 +30,16 @@ $$C\left( Z \right)=\frac{0,21Z+2}{\frac{0,58(Z^{2}-33,01Z+5)}{Z^{2}-12,4Z+0,25}
 
 $$C\left( Z \right)=\frac{0,21Z^{3}-0,604Z^{2}-24,74Z+0,5}{0,58Z^{2}-19,15Z+2,9}$$
 
-💡**Ejemplo 2:**
+💡**Ejemplo 2:** Construir un controlador que cumpla con los siguientes requisitos: Estabilidad, una factor de amortiguamiento de 0,2 y una frecuencia natural de 4 rad/s, teniendo en cuenta un valor de T=2 y G(Z)
 
+$$G\left( Z \right)=\frac{Z+5}{Z^{2}+3,5Z+1}$$
+
+Tomando en cuenta los datos de referencia se halla la funcion de segundo orden en tiempo continuo para despues convertirla a tiempo discreto:
+
+$$Go\left( s \right)=\frac{16}{s^{2}+1,6s+16}$$
+
+$$Go\left( Z \right)=\frac{16}{0,25Z^{2}+0,3s+15,45}$$
+
+Con esto ya se remplaza en la ecuacion del metodo y se obtiene la funcion del controlador deseado
+
+$$C\left( Z \right)\frac{\frac{16}{0,25Z^{2}+0,3s+15,45}}{\frac{Z+5}{Z^{2}+3,5Z+1}(1-\frac{16}{0,25Z^{2}+0,3s+15,45})}$$
