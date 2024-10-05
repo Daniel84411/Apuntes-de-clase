@@ -47,3 +47,16 @@ $$C\left( Z \right)=\frac{\frac{16}{0,25Z^{2}+0,3s+15,45}}{\frac{Z+5}{Z^{2}+3,5Z
 $$C\left( Z \right)=\frac{\frac{16}{0,25Z^{2}+0,3s+15,45}}{\frac{Z+5}{Z^{2}+3,5Z+1}*\frac{0,25Z^{2}+0,3Z+15,45-16}{0,25Z^{2}+0,3Z+15,45}}$$
 
 $$C\left( Z \right)=\frac{(16)Z^{2}+3,5Z+1}{(Z+5)0,25Z^{2}+0,3s-1,45}$$
+
+## Metodo por igualacion de coeficientes
+Se debe realizar cuando se tiene conocimiento de la funcion de transferencia en lazo cerrado G(Z), se deben tener en cuenta las siguientes consideraciones:
+
+-El controlador debe ser de 1 orden menor que la planta
+
+-El controlador debe ser bipropio
+
+-Se debe ubicar un polo mas que en la planta 
+
+Toamdno estos factores en cuenta se usa la siguiente ecuacion para hallar el controlador:
+
+$$C\left( Z \right)=\frac{B_{o}+B_{1}Z}{A_{o}+A_{1}Z}$$
