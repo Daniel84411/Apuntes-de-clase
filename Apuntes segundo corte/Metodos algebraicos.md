@@ -38,8 +38,12 @@ Tomando en cuenta los datos de referencia se halla la funcion de segundo orden e
 
 $$Go\left( s \right)=\frac{16}{s^{2}+1,6s+16}$$
 
-$$Go\left( Z \right)=\frac{16}{0,25Z^{2}+0,3s+15,45}$$
+$$Go\left( Z \right)=\frac{16}{0,25Z^{2}+0,3Z+15,45}$$
 
 Con esto ya se remplaza en la ecuacion del metodo y se obtiene la funcion del controlador deseado
 
-$$C\left( Z \right)\frac{\frac{16}{0,25Z^{2}+0,3s+15,45}}{\frac{Z+5}{Z^{2}+3,5Z+1}(1-\frac{16}{0,25Z^{2}+0,3s+15,45})}$$
+$$C\left( Z \right)=\frac{\frac{16}{0,25Z^{2}+0,3s+15,45}}{\frac{Z+5}{Z^{2}+3,5Z+1}(1-\frac{16}{0,25Z^{2}+0,3Z+15,45})}$$
+
+$$C\left( Z \right)=\frac{\frac{16}{0,25Z^{2}+0,3s+15,45}}{\frac{Z+5}{Z^{2}+3,5Z+1}*\frac{0,25Z^{2}+0,3Z+15,45-16}{0,25Z^{2}+0,3Z+15,45}}$$
+
+$$C\left( Z \right)=\frac{(16)Z^{2}+3,5Z+1}{(Z+5)0,25Z^{2}+0,3s-1,45}$$
